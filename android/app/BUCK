@@ -45,12 +45,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.HandyMan",
+    package = "com.handyman",
 )
 
 android_resource(
     name = "res",
-    package = "com.HandyMan",
+    package = "com.handyman",
     res = "src/main/res",
 )
 

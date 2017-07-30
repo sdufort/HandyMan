@@ -5,10 +5,12 @@ import { CardSection } from './CardSection';
 const styles = {
   containerStyle: {
     borderRadius: 2,
-    borderColor: '#26537a',
-    backgroundColor: '#26537a',
+    borderColor: '#ddd',
     elevation: 1,
+    marginLeft: 5,
+    marginRight: 5,
     flexDirection: 'row',
+    padding: 10,
   },
 };
 

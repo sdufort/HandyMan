@@ -5,7 +5,6 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     backgroundColor: '#26537a',
-    paddingBottom: 10,
   },
   welcome: {
     fontSize: 20,
@@ -15,7 +14,7 @@ const styles = StyleSheet.create({
   instructions: {
     textAlign: 'center',
     color: '#333333',
-    marginBottom: 10,
+    marginBottom: 5,
   },
 });
 

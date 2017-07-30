@@ -3,12 +3,13 @@ import { View } from 'react-native';
 
 const styles = {
   containerStyle: {
-    borderColor: '#26537a',
+    borderColor: '#ddd',
     padding: 5,
     backgroundColor: '#fff',
     justifyContent: 'flex-start',
     flexDirection: 'column',
     position: 'relative',
+    borderRadius: 10,
   },
 };
 
